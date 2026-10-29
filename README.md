@@ -1,6 +1,6 @@
 # Paint — Desktop Drawing Application
 
-A desktop drawing application developed in C# using Windows Forms as a first-year university course project. The application provides a graphical interface for drawing, working with colors and shapes, and managing image files.
+A desktop drawing application developed in C# using Windows Forms. The application provides a graphical interface for drawing, working with colors and shapes, and managing image files.
 
 ## Features
 
@@ -24,6 +24,4 @@ A desktop drawing application developed in C# using Windows Forms as a first-yea
 3. Build the solution.
 4. Run the application.
 
-## Project Background
 
-This project was created as part of a first-year university course to practice C# programming and desktop application development using Windows Forms.
